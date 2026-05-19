@@ -11,10 +11,10 @@ define('APP_NAME', 'College Faculty Management System');
 define('APP_TAGLINE', 'Government-style portal for faculty administration');
 define('APP_SECRET', 'college-faculty-management-secret');
 
-define('DB_HOST', getenv('DB_HOST') ?: '127.0.0.1');
-define('DB_NAME', getenv('DB_NAME') ?: 'college_faculty_management');
-define('DB_USER', getenv('DB_USER') ?: 'root');
-define('DB_PASS', getenv('DB_PASS') ?: '');
+define('DB_HOST', '127.0.0.1');
+define('DB_NAME', 'college_faculty_management');
+define('DB_USER', 'root');
+define('DB_PASS', '');
 
 define('UPLOAD_PATH', __DIR__ . '/uploads');
 
