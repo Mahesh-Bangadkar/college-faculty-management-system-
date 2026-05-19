@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title>College Logo</title>
+  <desc>Shield emblem in navy and white for the college faculty management portal.</desc>
+  <rect width="160" height="160" rx="24" fill="#0b2a4a"/>
+  <circle cx="80" cy="72" r="36" fill="#ffffff" opacity="0.95"/>
+  <path d="M80 42 L104 54 V77c0 18-10 31-24 41-14-10-24-23-24-41V54l24-12Z" fill="#0b2a4a"/>
+  <path d="M80 52l13 7v14c0 10-4 18-13 25-9-7-13-15-13-25V59l13-7Z" fill="#ffffff"/>
+  <rect x="44" y="116" width="72" height="10" rx="5" fill="#ffffff" opacity="0.92"/>
+  <text x="80" y="147" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">COLLEGE</text>
+</svg>
